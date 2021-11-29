@@ -1,4 +1,4 @@
-//mentoring 2. 10/30
+//mentoring 2. 2021.10.30
 //연결리스트의 삽입과 삭제
 
 #include <iostream>
