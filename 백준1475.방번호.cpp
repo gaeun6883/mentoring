@@ -1,4 +1,4 @@
-//mentoring 3. 11/1
+//mentoring 3. 2021.11.1
 //벡터의 사용
 
 #include <iostream>
