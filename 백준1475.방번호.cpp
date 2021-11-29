@@ -30,5 +30,6 @@ int main() {
 			max = setList[y];
 	}
 	printf("%d", max);
+
 	return 0;
 }
