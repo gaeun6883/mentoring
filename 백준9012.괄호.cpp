@@ -1,4 +1,4 @@
-//mentoring 1. 10/29
+//mentoring 1. 2021.10.29
 //stl의 stack 사용
 
 #include <iostream>
