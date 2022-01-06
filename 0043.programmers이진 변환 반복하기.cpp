@@ -1,4 +1,4 @@
-//mentoring 43. 2021.1.2
+//mentoring 43. 2022.1.2
 //이진수-n진수 게임 응용
 
 #include <string>
