@@ -1,4 +1,4 @@
-//mentoring 46. 2021.1.4
+//mentoring 46. 2022.1.4
 //sstream 응용
 
 #include <string>
