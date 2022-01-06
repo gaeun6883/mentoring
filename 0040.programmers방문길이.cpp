@@ -1,4 +1,4 @@
-//mentoring 40.2021.12.30
+//mentoring 40. 2021.12.30
 //배열을 이용한 구현
 
 #include <string>
