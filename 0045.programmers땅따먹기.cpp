@@ -1,4 +1,4 @@
-//mentoring 45. 2021.1.4
+//mentoring 45. 2022.1.4
 //다이나믹 프로그래밍 응용
 
 #include <iostream>
