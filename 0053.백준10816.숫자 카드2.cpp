@@ -12,10 +12,9 @@ int minIdx(int target) {
     int left = 0, right = list.size() - 1;
     while (left <= right) {
         int middle = (left + right) / 2;
-        if (list[middle] >= target) {//list[middle]�� target���� ũ�ų� �����Ƿ� right�� ���̱�
-            right = middle - 1;
+        if (list[middle] >= target) {
         }
-        else left = middle + 1;//list[middle]�� ������ target���� �����Ƿ� left�� �ø���
+        else left = middle + 1;
     }
     return left;
 }
