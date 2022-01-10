@@ -1,0 +1,21 @@
+//mentoring 58. 2022.1.10
+//스택의 응용
+
+#include<string>
+#include<stack>
+using namespace std;
+
+int solution(string s){
+    int answer=-1;
+    stack<char> st;
+    for(int i=0; i<s.length(); i++)
+        if(!st.empty()&&st.top()==s[i])
+            st.pop();
+        else st.push(s[i]);
+
+    if(st.empty()) answer=1;
+    else answer=0;
+
+    return answer;
+
+}
