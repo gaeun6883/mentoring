@@ -1,4 +1,4 @@
-//mentoring 151. 2022.2.21
+//mentoring 151. 2022.2.22
 //다이나믹 프로그래밍
 
 #include <iostream>
