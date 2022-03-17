@@ -1,5 +1,5 @@
 //mentoring 184. 2022.3.11
-//string 함4
+//string 함수
 
 #include <string>
 #include <vector>
