@@ -1,4 +1,4 @@
-//mentoring 230. 2022.5.12
+//mentoring 230. 2022.5.13
 //구현
 
 #include <iostream>
